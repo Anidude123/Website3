@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+h1 {
+  font-family: Advent Pro;
+}
+
+a{
+  float: ;
+  padding: 30px; 
+  padding-left: 97px;
+  padding-right: 97px;
+  border-style:groove;
+  border-color:aqua;
+  background-color:#29e07a;
+}
+a:link {
+  color: cornflowerblue;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: darkcyan;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+.hyperlink{
+  text-decoration: none;
+  border-style: none;
+  padding: 0px;
+}
+body{
+  background-color: rgba(222, 50, 50, 0.58);
+}
